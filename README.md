@@ -7,6 +7,8 @@ Algumas tecnologias que domino:
 - Linguagens: Kotlin & Java
 - Git
 
+<h2 align="center"> Tecnologias <br></h2>
+
 <div align="center" style="display: inline_block"><br>
    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=45 height=55 />
    <img alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
