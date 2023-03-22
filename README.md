@@ -1,7 +1,5 @@
 👋<h1 align="center"> Olá, eu sou Eduardo Bélico! 👋 </h1>
 
- Desenvolvedor Android <br>
-
 Iniciante na área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas com foco em Backend. Com interesse em Android e com formação em Java, busco aplicar o gosto pela resolução de problemas e a capacidade de adaptação para me aprofundar mais na área.
 
 Algumas tecnologias que domino:
