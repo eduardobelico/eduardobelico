@@ -7,7 +7,7 @@ Algumas tecnologias que domino:
 - Linguagens: Kotlin & Java
 - Git
 - SDK Android
-- Jetpack Components ( Room, Coroutines, Flow, ViewModel )
+- Jetpack Components ( Room, LyfeCycle, ViewModel, DataBinding )
 
 <h2 align="center"> Tecnologias <br></h2>
 
