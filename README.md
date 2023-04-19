@@ -1,11 +1,13 @@
-👋<h1 align="center"> Olá, eu sou Eduardo Bélico! 👋 </h1>
+<h1 align="center"> Olá, eu sou Eduardo Bélico! </h1>
 
-Iniciante na área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas com foco em Backend. Com interesse em Android e com formação em Java, busco aplicar o gosto pela resolução de problemas e a capacidade de adaptação para me aprofundar mais na área.
+Iniciante na área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas, direciono meus estudos na área de desenvolvimento Android. Busco aplicar o gosto pela resolução de problemas e a capacidade de adaptação para me aprofundar mais na área.
 
 Algumas tecnologias que domino:
 
 - Linguagens: Kotlin & Java
 - Git
+- SDK Android
+- Jetpack Components ( Room, Coroutines, Flow, ViewModel )
 
 <h2 align="center"> Tecnologias <br></h2>
 
