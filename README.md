@@ -1,13 +1,18 @@
 <h1 align="center"> Olá, eu sou Eduardo Bélico! </h1>
 
-Iniciante na área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas, direciono meus estudos na área de desenvolvimento Android. Busco aplicar o gosto pela resolução de problemas e a capacidade de adaptação para me aprofundar mais na área.
+Desenvolvedor Mobile focado em soluções eficientes com Kotlin e Flutter. Com experiência prática em Android nativo, domino componentes Jetpack, arquiteturas limpas e integração de APIs para criar aplicativos robustos. Minha transição para Flutter foi natural, aproveitando conhecimentos em gerenciamento de estado e padrões MVVM para entregar resultados rápidos. Trabalho bem com orientação de desenvolvedores seniors. Valorizo código limpo, boas práticas e estou sempre pronto para novos desafios que exijam adaptação técnica.
 
 Algumas tecnologias que domino:
 
-- Linguagens: Kotlin & Java
+- Linguagens: Kotlin & Dart
+- UI: XML, Compose & Widgets
 - Git
 - SDK Android
 - Jetpack Components ( Room, LyfeCycle, ViewModel, DataBinding )
+- Gerenciamento de Estados: Bloc, Cubit
+- Chamada de API: Retrofit & HTTP
+- Koin / Dagger Hilt
+- Arquiteturas: MVVM & Clean
 
 <h2 align="center"> Tecnologias <br></h2>
 
